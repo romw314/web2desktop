@@ -1,0 +1,19 @@
+{
+  "name": "web2desktop",
+  "version": "0.0.1",
+  "description": "Convert web apps to desktop apps using Electron.",
+  "main": "main.js",
+  "repository": "https://github.com/romw314/web2desktop",
+  "author": "romw314",
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "open": "^9.1.0",
+    "press-any-key": "^0.1.1",
+    "prompts": "^2.4.2",
+    "shelljs": "^0.8.5",
+    "simple-git": "^3.19.1",
+    "valid-url": "^1.0.9"
+  }
+}
