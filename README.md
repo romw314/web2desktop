@@ -14,4 +14,4 @@ npm install
 ```
 The test app is located in the `www` directory.
 ## Template
-The apps are created from [this template](https://github.com/romw314/web2desktop-template)
+The apps are created from [this template](https://github.com/romw314/web2desktop-template).
