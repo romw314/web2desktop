@@ -3,6 +3,7 @@ Utility for creating Electron apps from web apps.
 ## Usage
 Clones this repo and run:
 ```sh
+npm install
 node main.js /path/to/directory/with/index.html
 ```
 There are interactive prompts for name, description, etc.
