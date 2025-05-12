@@ -12,7 +12,7 @@
     "open": "^10.1.0",
     "press-any-key": "^1.1.0",
     "prompts": "^2.4.2",
-    "shelljs": "^0.8.5",
+    "shelljs": "^0.10.0",
     "simple-git": "^3.25.0",
     "valid-url": "^1.0.9"
   }
